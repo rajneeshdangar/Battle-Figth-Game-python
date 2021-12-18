@@ -1,6 +1,6 @@
 # BattleFigthGame_python
 
-![2021-09-29 (2)](https://user-images.githubusercontent.com/96230577/146644380-fdc82a2d-2690-4ce5-8cb3-f6d2ddf7b2ac.png)
+![2021-12-18 (6)](https://user-images.githubusercontent.com/96230577/146644505-84a50d07-e5e1-4062-8e7c-c96fa297fd8f.png)
 
 
 
